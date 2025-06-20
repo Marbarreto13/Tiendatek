@@ -6,7 +6,7 @@ Este repositorio es mantenido por **[Bayron Cañas y Fernanda García]**, como u
 
 ---
 
-### 🛍️ Funcionalidades Implementadas
+### Funcionalidades Implementadas
 
 Cada aspecto del sistema ha sido construido para crear una experiencia de e-commerce completa:
 
@@ -35,7 +35,7 @@ Cada aspecto del sistema ha sido construido para crear una experiencia de e-comm
 
 ---
 
-### 🛠️ Tecnologías y Arquitectura
+### Tecnologías y Arquitectura
 
 El proyecto está construido sobre una arquitectura desacoplada, utilizando un stack de tecnologías modernas y eficientes.
 
@@ -55,7 +55,7 @@ El proyecto está construido sobre una arquitectura desacoplada, utilizando un s
 
 ---
 
-### ⚙️ Configuración y Puesta en Marcha Local
+### Configuración y Puesta en Marcha Local
 
 Para ejecutar este proyecto en tu propia máquina, sigue estos pasos.
 
@@ -80,7 +80,7 @@ Para ejecutar este proyecto en tu propia máquina, sigue estos pasos.
 
 ---
 
-### 💾 Arquitectura de la Base de Datos
+### Arquitectura de la Base de Datos
 
 El diseño de la base de datos es relacional y consta de 5 tablas principales.
 
@@ -95,14 +95,20 @@ El diseño de la base de datos es relacional y consta de 5 tablas principales.
 
 ---
 
-### ✒️ Autor
+### Autor
 
 *   **Bayron Cañas y Fernanda García**
 
 ---
 
-### 🎓 Conclusión del Proyecto
+### Conclusión del Proyecto
 
 "Tienda-Tek" ha sido un ejercicio práctico integral que demuestra la construcción y despliegue de una aplicación web full-stack desde cero. El proyecto no solo cumple con los requisitos funcionales de un e-commerce, sino que también implementa soluciones a desafíos del mundo real como la **autenticación segura, la integridad de datos transaccionales, el almacenamiento persistente de archivos y el despliegue automatizado (CI/CD)**.
 
 La arquitectura desacoplada seleccionada ha demostrado ser robusta, escalable y mantenible, sentando una base sólida para futuras expansiones.
+
+---
+
+### Videos de presentación
+
+https://drive.google.com/drive/folders/1uuLdepi0n7OYN0xdZlawl1ngOOE_dw8H?usp=sharing
